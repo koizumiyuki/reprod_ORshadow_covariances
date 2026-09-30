@@ -1,12 +1,10 @@
-# Orbital-shadow covariance coefficients
+# Reproduction Code for "Provably Efficient Learning of Fermionic Correlations under Particle-Number Symmetry"
 
-Code for exact symbolic evaluation of low-order RDM covariance coefficients for
-orbital-rotation classical shadows. It follows the estimator and Grassmannian
-moment framework in [Koizumi *et al.*, arXiv:2606.30601v1](https://arxiv.org/abs/2606.30601v1).
+Code for exact symbolic evaluation of low-order RDM covariance closed expression for orbital-rotation classical shadows. It follows the estimator and Grassmannian
+moment framework in [Koizumi *et al.*](https://arxiv.org/abs/2606.30601v2).
 The published paper gives the exact 1-RDM variance formula (Eq. 6); the 2-RDM
 and mixed 1-/2-RDM coefficient tables generated here are additional calculations.
-This repository does not reproduce the paper's numerical figures or
-sample-complexity proofs.
+
 
 ## Contents
 
