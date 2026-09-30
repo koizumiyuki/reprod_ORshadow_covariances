@@ -1,0 +1,7 @@
+[PASS] reference test values
+[PASS] hole counting
+[PASS] k=1 anchor
+[PASS] variance positivity
+[PASS] hermiticity
+
+overall: PASS
